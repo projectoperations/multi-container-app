@@ -1,4 +1,4 @@
-# Multi Containers App
+# Containers App
 
 This is a repo for new users getting started with Docker.
 
